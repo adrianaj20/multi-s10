@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "V4gfIsapUSq57seoB1lxHKFbRqowpdT3GZVkjtauFApSbL2v4wCHhAZhUKOGj3kDuVP4/3+J9u++s0dkIiz7AA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\najar\\source\\repos\\XLab10\\XLab10\\XLab10\\XLab10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\najar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\najar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\najar\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\najar\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\najar\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
